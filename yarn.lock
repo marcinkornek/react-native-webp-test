@@ -5121,6 +5121,10 @@ react-is@^16.8.1, react-is@^16.8.4, react-is@^16.8.6:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
 
+react-native-webp-support@marcinkornek/react-native-webp-support:
+  version "0.4.1"
+  resolved "https://codeload.github.com/marcinkornek/react-native-webp-support/tar.gz/dd999b69695c7da1a9b15dfca41f23d113a3cf7d"
+
 react-native@0.60.4:
   version "0.60.4"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.60.4.tgz#4378171e63dd5310497e15e54ec9185cb470752d"
